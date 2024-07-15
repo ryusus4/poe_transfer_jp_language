@@ -14,5 +14,6 @@
 
 # 注意点
 アイテム名を用いた検索の場合、変換が適切に動作しません。
+
 例: 【Mageblood Heavy Belt】（英語版）を名前で検索した状態では【メイジブラッド ヘビーベルト】（日本語版）に移行できません。
 (名前ではなくスタットフィルターに「LEFTMOST # MAGIC UTILITY FLASK CONSTANTLY APPLIES ITS FLASK EFFECT TO YOU」(左から#個のマジックユーティリティフラスコのフラスコ効果が常にプレイヤーに適用される)等で検索することで回避することはできます)
