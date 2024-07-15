@@ -4,7 +4,7 @@
 このスクリプトを導入すると、アイテムをスタッツフィルターで絞り込んだ状態でのみ日英変換が可能になります。（注：アイテム名の日英変換はできません）
 
 # 導入方法
-1. Google拡張機能の「Tampermonkey」をインストールする
+1. Google拡張機能の「[Tampermonkey](https://chromewebstore.google.com/detail/tampermonkey/dhdgffkkebhmkfjojejmpbldmpobfkfo?hl=ja)」をインストールする
 2. https://github.com/ryusus4/poe_transfer_jp_language/raw/main/poe_transfer_jp_language.user.js から拡張スクリプトをインストールする
 
 # 使い方
